@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapActivity">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom">
+
+
+        <Button
+            android:id="@+id/openGoogleMapButton"
+            android:layout_width="140dp"
+            android:layout_height="70dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="4dp"
+            android:text="@string/google_map"
+            app:icon="@android:drawable/ic_menu_mapmode"
+            app:strokeColor="#AE1818" />
+
+        <Button
+            android:id="@+id/openRentBike"
+            android:layout_width="140dp"
+            android:layout_height="70dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="104dp"
+            android:text="@string/bottom_gravity" />
+        <Button
+            android:id="@+id/Setting"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="4dp"
+            android:text="Setting" />
+
+
+    </RelativeLayout>
+</RelativeLayout>

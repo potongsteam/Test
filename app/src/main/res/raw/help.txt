@@ -1,0 +1,48 @@
+Application Name: Bicycle Rental App
+
+Version: 1.0.0
+
+Support Overview:
+Thank you for choosing the Bicycle Rental Application to simplify your bicycle rental experience. Our goal is to provide you with a seamless and enjoyable rental experience. If you encounter any issues or have questions, our support team is here to assist you. This support document outlines the various ways you can get help and assistance with the Bicycle Rental App.
+
+How to Get Support:
+
+In-App Help: The Bicycle Rental App includes a comprehensive Help and FAQ section within the app. You can access this section by navigating to the "Help" or "FAQ" option in the app's menu. Here, you'll find answers to frequently asked questions and step-by-step guides on using the app.
+
+Contact Support: If you cannot find the answer to your question in the Help section, you can reach out to our dedicated support team. Here's how:
+
+Email Support: Send an email to support@bicyclerentalapp.com with a detailed description of your issue or question. Please include your contact information and any relevant details to help us assist you effectively.
+
+In-App Support Request: Inside the app, you can submit a support request by navigating to the "Support" or "Contact Us" section. Fill out the form with your inquiry, and our support team will respond as quickly as possible.
+
+Social Media: Stay connected with us on social media platforms such as Facebook, Twitter, and Instagram. We provide updates, tips, and respond to messages and comments promptly.
+
+Facebook: facebook.com/bicyclerentalapp
+Twitter: @bikerentalapp
+Instagram: @bicyclerentalapp
+Community Forums: Join our online community forums where you can engage with other users, share your experiences, and seek advice. We encourage you to contribute and learn from fellow cyclists and app users.
+
+Community Forum Link: forum.bicyclerentalapp.com
+Support Hours:
+Our support team is available to assist you during the following hours:
+
+Monday to Friday: 9:00 AM to 6:00 PM (Your Time Zone)
+Saturday: 10:00 AM to 4:00 PM (Your Time Zone)
+Sunday: Closed
+Bug Reporting:
+If you encounter any technical issues, glitches, or bugs while using the app, please report them to our support team. We take bug reports seriously and work diligently to resolve them in future updates.
+
+Feedback and Suggestions:
+We value your feedback and suggestions to improve the Bicycle Rental App continuously. If you have ideas or recommendations for new features, enhancements, or any other feedback, please share it with us through any of the support channels mentioned above.
+
+Thank you for choosing the Bicycle Rental App. We are committed to providing you with the best possible cycling experience, and your satisfaction is our priority. Happy cycling!
+
+Sincerely,
+
+[Your Name]
+[Your Title]
+Bicycle Rental App Support Team
+[Support Email Address]
+[Support Phone Number] (optional)
+
+Please replace the placeholders ([Your Name], [Your Title], [Support Email Address], [Support Phone Number]) with your actual contact information or the information of your support team. Customize this support description to match your app's specific features and support channels.

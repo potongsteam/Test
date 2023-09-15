@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="my_API_key">AIzaSyCI9XffBdu1YunfPpiJQLqqkRFCT2Yiw0w</string>
+    <string name="bottom_gravity">Rent Bike</string>
+    <string name="google_map">Google Map</string>
+    <string name="setting">Setting</string>
+</resources>
